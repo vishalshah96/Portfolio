@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Vishal shah</title>
+    <link>https://vishalshah96.github.io/Portfolio/tags/scene/</link>
+    <description>Recent content in scene on Vishal shah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Sep 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://vishalshah96.github.io/Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twitter Sentiment Analysis</title>
+      <link>https://vishalshah96.github.io/Portfolio/post/project1/</link>
+      <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vishalshah96.github.io/Portfolio/post/project1/</guid>
+      <description>•	Built and implemented an information retrieval and classification system for sentiment analysis on tweets in Python
+•	Extracted and cleaned tweets from user’s profile using Twitter API and used Python libraries like tweepy and textblob
+•	Segmented the tweets into positive, negative, or neutral language using subjectivity and polarity scores</description>
+    </item>
+    
+    <item>
+      <title>Music Recommendation system</title>
+      <link>https://vishalshah96.github.io/Portfolio/post/project4/</link>
+      <pubDate>Wed, 12 Jun 2019 11:14:48 -0400</pubDate>
+      
+      <guid>https://vishalshah96.github.io/Portfolio/post/project4/</guid>
+      <description>1 Extracted data from KKBOX and performed Big data manipulation in Apache Hive and Spark 2 Visualized captivating heatmaps from data using seaborn and matplotlib libraries in Python 3 Conducted feature extraction and fit the data into Random Forest and XGBoost to achieve an accuracy of 73%</description>
+    </item>
+    
+  </channel>
+</rss>

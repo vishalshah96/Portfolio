@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Vishal shah</title>
+    <link>https://vishalshah96.github.io/Portfolio/post/</link>
+    <description>Recent content in Projects on Vishal shah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://vishalshah96.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twitter Sentiment Analysis</title>
+      <link>https://vishalshah96.github.io/Portfolio/post/project1/</link>
+      <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vishalshah96.github.io/Portfolio/post/project1/</guid>
+      <description>•	Built and implemented an information retrieval and classification system for sentiment analysis on tweets in Python
+•	Extracted and cleaned tweets from user’s profile using Twitter API and used Python libraries like tweepy and textblob
+•	Segmented the tweets into positive, negative, or neutral language using subjectivity and polarity scores</description>
+    </item>
+    
+    <item>
+      <title>Stock Market Prediction Using Deep Learning</title>
+      <link>https://vishalshah96.github.io/Portfolio/post/project2/</link>
+      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://vishalshah96.github.io/Portfolio/post/project2/</guid>
+      <description>Imported daily price history of NASDAQ stocks from website using Python wrapper and API key Developed a model that predicted the opening and closing price of a stock using LSTM and Keras Trained 30 neural networks using different parameter combinations and compared the results by calculating RSME Implemented a weekly Credit Spread Strategy using data of predicted closing price producing monthly return of 24%  </description>
+    </item>
+    
+    <item>
+      <title>Bitcoin Price Prediction</title>
+      <link>https://vishalshah96.github.io/Portfolio/post/project3/</link>
+      <pubDate>Sun, 11 Aug 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://vishalshah96.github.io/Portfolio/post/project3/</guid>
+      <description>Developed a model that predicted bitcoin’s price for the next 30 days using Random Forest Regression. Performed feature extraction, handled missing data using Mean value Imputation. Analyzed and performed exploratory data analysis on data set in Python and achieved an accuracy of 77%.</description>
+    </item>
+    
+    <item>
+      <title>Music Recommendation system</title>
+      <link>https://vishalshah96.github.io/Portfolio/post/project4/</link>
+      <pubDate>Wed, 12 Jun 2019 11:14:48 -0400</pubDate>
+      
+      <guid>https://vishalshah96.github.io/Portfolio/post/project4/</guid>
+      <description>1 Extracted data from KKBOX and performed Big data manipulation in Apache Hive and Spark 2 Visualized captivating heatmaps from data using seaborn and matplotlib libraries in Python 3 Conducted feature extraction and fit the data into Random Forest and XGBoost to achieve an accuracy of 73%</description>
+    </item>
+    
+    <item>
+      <title>Heart Disease Prediction</title>
+      <link>https://vishalshah96.github.io/Portfolio/post/project5/</link>
+      <pubDate>Sat, 13 Apr 2019 11:15:58 -0400</pubDate>
+      
+      <guid>https://vishalshah96.github.io/Portfolio/post/project5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diabetes Prediction</title>
+      <link>https://vishalshah96.github.io/Portfolio/post/project6/</link>
+      <pubDate>Mon, 14 Jan 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://vishalshah96.github.io/Portfolio/post/project6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
